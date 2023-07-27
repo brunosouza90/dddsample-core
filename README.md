@@ -1,7 +1,7 @@
 # DDDSample
 [![Java CI with Maven](https://github.com/citerus/dddsample-core/actions/workflows/pipeline.yml/badge.svg)](https://github.com/citerus/dddsample-core/actions/workflows/pipeline.yml)
 
-DDD project based on Java Language 1.8
+DDD project based on Java version 11
 
 Our intention is to move everything from SourceForge to GitHub in due time while starting upgrading both the technical aspects as well as the DDD aspects of the DDD Sample.
 
